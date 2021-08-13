@@ -14,7 +14,9 @@ C++/WinAPi
 ![image](https://user-images.githubusercontent.com/65226760/129317290-d74dbb1c-9b98-4db4-b64b-08b2d17eb5f1.png)
 ![image](https://user-images.githubusercontent.com/65226760/129317345-efd1c3d2-fa26-4517-bd51-d6a43ece95de.png)
 
+![image](https://user-images.githubusercontent.com/65226760/129317606-1ab19bd4-ffcf-43c7-9eef-224b974885cf.png)
 
 게임 시연 영상 (학원제출용)
+=> 기술적인 부분 설명 자막으로 포함합니다.
 https://youtu.be/RdwmS8OoF_M
 
